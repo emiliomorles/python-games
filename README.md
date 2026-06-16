@@ -6,29 +6,8 @@ Aquí iré subiendo todos los videojuegos que vaya creando mientras practico y m
 
 ## 🎲 Juegos Disponibles
 
-- **001_ahorcado** → Juego clásico del Ahorcado con dibujos en consola
-
-Ayuda de Grok
-
-Desarrollador: @Emilio_Morles
-
-Año: 2025
-
-- **002_bitquest** → BitQuest: La Búsqueda del Tesoro Bitcoin (aventura de texto)
-
-Embárcate en una aventura pixelada en "BitQuest"! Atraviese la jungla, conquista los desafíos y resuelve rompecabezas en tu búsqueda del tesoro Bitcoin definitivo. 
-¿Navegarás sabiamente o enfrentarás consecuencias humorísticas? ¡Desata tu explorador interior, sumérgete en el mundo de Bitcoin y atrévete a reclamar el tesoro!
-
-Desarrollador: @Emilio_Morles
-
-Año: 2023
-
-##  🔸 Aprendi sobre:
-
-- Conditional Operators ✔️
-- Control Flow with if / else ✔️
-- Nested if statements and elif statements ✔️
-- ASCII ART ✔️
+- **001_ahorcado** → Juego clásico del Ahorcado con dibujos en consola (2025)
+- **002_bitquest** → BitQuest: La Búsqueda del Tesoro Bitcoin (aventura de texto) (2023)
 
 ## 🛠️ Tecnologías
 
