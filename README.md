@@ -1,22 +1,22 @@
-# 🎮 Mis Juegos en Python
+# 🎮 My Python Games
 
-Repositorio dedicado exclusivamente a **juegos** desarrollados en Python.  
-Aquí iré subiendo todos los videojuegos que vaya creando mientras practico y mejoro mis habilidades de programación.
+Repository dedicated exclusively to **games** developed in Python.  
+Here I will upload all the video games I create while practicing and improving my programming skills.
 
-## 🎲 Juegos Disponibles
+## 🎲 Available Games
 
-- **001_ahorcado** → Juego clásico del Ahorcado con dibujos en consola (2025)
-- **002_bitquest** → BitQuest: La Búsqueda del Tesoro Bitcoin (aventura de texto) (2023)
-- **003_piedra_papel_o_tijera** → Versión del clásico Piedra, Papel o Tijera (2023)
-- **004_heads-or-tails** → Cara o Cruz (Heads or Tails) (2023)
-- **005_hangman** → Juego del Ahorcado en inglés (versión alternativa) (2023)
-- **006_bitcoin_snake_game** → Snake Game con temática Bitcoin (2023)
-- **007_fizz_buzz** → Juego / ejercicio FizzBuzz con interfaz divertida (2023)
-- **008_black_jack** → Blackjack (Veintiuno) contra la banca (2023)
-- **009_guess_the_number** → Adivina el Número (con niveles de dificultad) (2023)
-- **010_pay_the_food_roulette** → Ruleta de "Paga la comida" (juego para decidir quién paga) (2023)
+- **001_ahorcado** → Classic Hangman game with console drawings (2025)
+- **002_bitquest** → BitQuest: The Bitcoin Treasure Hunt (text adventure) (2023)
+- **003_piedra_papel_o_tijera** → Rock, Paper, Scissors game (2023)
+- **004_heads-or-tails** → Heads or Tails (Coin Flip) (2023)
+- **005_hangman** → Hangman game in English (alternative version) (2023)
+- **006_bitcoin_snake_game** → Snake Game with Bitcoin theme (2023)
+- **007_fizz_buzz** → FizzBuzz game/exercise with fun interface (2023)
+- **008_black_jack** → Blackjack (21) against the dealer (2023)
+- **009_guess_the_number** → Guess the Number (with difficulty levels) (2023)
+- **010_pay_the_food_roulette** → "Who Pays the Food" Roulette (2023)
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-- **Lenguaje:** Python 3
-- **Enfoque:** Aprendizaje y práctica
+- **Language:** Python 3
+- **Focus:** Learning and practice
